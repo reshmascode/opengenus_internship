@@ -20,7 +20,7 @@ Languages used: HTML, CSS, Bootstrap, JavaScript, and jQuery.
 
 This chatbot offers the user the chance to choose from several options, presented in the form of menus or buttons. Depending on what the user clicks on, the bot then prompts another set of options for him to choose from, and so on.
 
-<!---FOLDER------------CONTENT------------------------------------------>
+# FOLDER and CONTENT
 1. demo-data           data.json [database file to  intereact with user]
 2. flow.css            Include code for Chat Container 
 3. flowchart.css       Include code for Chat Window
